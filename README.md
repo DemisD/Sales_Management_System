@@ -11,50 +11,36 @@ __[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_Sys
 - Change Password For sales person.
 - Logout Functionality
 - Dashboard
-- Manage Bus
-  - Adding New Bus
-  - Edit the Exiting Bus
-  - View details of the Bus
-  - Listing of all Bus
-- Manage Route
-  - Adding New Route
-  - Edit the Exiting Route
-  - View details of the Route
-  - Listing of all Route
-- Manage Schedule
-  - Adding New Schedule
-  - Edit the Exiting Schedule
-  - View details of the Schedule
-  - Listing of all Schedule
+- Manage Customer 
+  - Adding New customer 
+  - Edit the Exiting customer 
+  - View details of the customer 
+  - Listing of all customer 
+- Manage Items/Products
+  - Adding New item
+  - Edit the Exiting item
+  - View details of the item
+  - Listing of all item
+- Manage voucher/invoice
+  - Adding New invoice
+  - Edit the Exiting invoice
+  - View details of the invoice
+  - Listing of all invoice
 - Manage Booking
   - Adding New Booking
   - Edit the Exiting Booking
   - View details of the Booking
   - Listing of all Booking
-- Reports of the project Bus Ticket Booking System
+- Reports of the project 
   - Report of all Customers
-  - Report of all Bus
-  - Report of all Route
-  - Report of all Schedule
-  - Report of all Booking
+  - Report of all voucher/invoice
+  - Report of all Items/Products
 
 
-#### 2 Functionality performed by Passenger:
-- Passenger Registration: Passenger can register on website using the registration form.
-- Passenger Login: This is the login form, from where passenger can login into the system
-- Passenger Booking: This is passenger booking form.
-- Passenger Payment: This is the passenger payment form for the Bus Ticket booking where passenger will be able to make payment.
-- Passenger Feedback: This is customer feedback form where customer can give feedback of the Bus Ticket.
-- Change Password: This is the change password module from where passenger change his account password.
-
-### To implement the Bus Ticket Booking System we used the following Technology
-
-- Java (jdk8.1.6):- The Java Development Kit (JDK) is a crucial tool for developers working with Java. It includes the software and tools needed to compile, debug, and run applications written in the Java programming language.
-- NetBeans 8.2 IDE. NetBeans 8.2 IDE is an integrated development environment primarily used for Java development
-- MySQL 5.0:- MySQL is a widely-used open-source relational database management system (RDBMS). It is known for its reliability, robustness, and ease of use, making it a popular choice for web applications and other data-driven projects.
-- JSF Prime faces 5.0 :-  JSF (JavaServer Faces) and PrimeFaces are commonly used together in Java web development to create rich user interfaces.
-- Glassfish server: is a server, which let us to use client computer as client and server.
-- Edraw max:  it is a software which used to draw the diagrams Such as sequence diagram , uiscase diagram
+### To implement the Sales Management System (SMS) we used the following Technology
+- Java Spring boot
+- IntelliJ IDEA
+- Angular v16 
 
 ### Sample Screen shots
 #### Login Page
