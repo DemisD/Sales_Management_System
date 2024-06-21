@@ -3,9 +3,9 @@
 __[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_System_Using-SpringBoot-and-Angular)__
 
 
-### Functionality performed by zemenBus ticket reservation system (TRS):
+### Functionality performed by Sales Management System (SMS):
 
-#### 1 functionality performed by the admin users.
+
 
 - Login for Admin
 - Create new admin user.
