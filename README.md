@@ -4,16 +4,13 @@ __[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_Sys
 
 
 ### Functionality performed by Sales Management System (SMS):
-
-
-
-- Login for Admin
-- Create new admin user.
-- Forgot password for Admin.
-- Edit Profile For Admin.
-- Change Password For Admin.
+- Login for sales person
+- Create new user.
+- Forgot password for sales person.
+- Edit Profile For sales person.
+- Change Password For sales person.
 - Logout Functionality
-- Dashboard for Admin User
+- Dashboard
 - Manage Bus
   - Adding New Bus
   - Edit the Exiting Bus
