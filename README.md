@@ -1,7 +1,6 @@
 # Sales_Management_System_using-spring-boot-and-angular
-Sales Management System using spring boot and angular.
-__[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_System_Using-SpringBoot-and-Angular
-)__
+
+__[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_System_Using-SpringBoot-and-Angular)__
 
 
 ### Functionality performed by zemenBus ticket reservation system (TRS):
