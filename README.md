@@ -46,8 +46,7 @@ __[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_Sys
 
 #### Customer registration page
 
-![schedule](https://github.com/DemisD/online-ticket-reservation-system/assets/48995115/49ac4b97-4be4-4aca-a7cc-636ec7d2e954)
-
-
+![customerReg](https://github.com/DemisD/Sales_Management_System_Using-SpringBoot-and-Angular/assets/48995115/6d98c11f-62ea-407d-94d3-3b4cd5a65ff1)
+#### All Customer List page
 Conttact Us
 Email: demisbokt@gmail.com
