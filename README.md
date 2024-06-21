@@ -39,8 +39,7 @@ __[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_Sys
 
 ### Sample Screen shots
 #### Login Page
-![loginPage](https://github.com/DemisD/online-ticket-reservation-system/assets/48995115/fcc3295a-4aaa-4d29-a66a-78a5ef1ac01f)
-
+![loginPage](https://github.com/DemisD/Sales_Management_System_Using-SpringBoot-and-Angular/assets/48995115/07c87712-7390-44dd-a200-2c6078ba5f7c)
 
 #### dashboard Page 
 ![dashboardPage](https://github.com/DemisD/online-ticket-reservation-system/assets/48995115/5b0874e0-31d6-497e-8132-f0dba1fefdf6)
