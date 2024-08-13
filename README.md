@@ -1,6 +1,6 @@
 # Sales_Management_System_using-spring-boot-and-angular
 
-__[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_System_Using-SpringBoot-and-Angular)__
+__[Sales Management System (SMS)](https://github.com/DemisD/Sales_Management_System)__
 
 
 ### Functionality performed by Sales Management System (SMS):
